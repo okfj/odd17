@@ -18,7 +18,7 @@ email: info@okfn.jp
 description: Open Knowledge Japan (OKJP)。政府保有データをはじめとする多様なデータの生成・公開・利用を支援しています
 
 url: "https://okfj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/odd17" # the subpath of your site, e.g. /blog
 
 twitter_username: okfj
 github_username:  okfj
