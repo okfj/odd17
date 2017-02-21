@@ -2,8 +2,11 @@
 
   <div class="wrapper">
 
+    <a href="{{ site.baseurl }}/">
+    <img border="0" alt="odd2017" src="{{ site.baseurl }}/images/odd15_logo21.png" align="left">
+    </a>
     <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
-
+    <div clear="all" />
     <nav class="site-nav">
       <span class="menu-icon">
         <svg viewBox="0 0 18 15" width="18px" height="15px">
@@ -13,12 +16,21 @@
         </svg>
       </span>
 
+      <!--
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
+      </div>
+      -->
+      <div class="trigger">
+        <a class="page-link" href="{{ site.baseurl }}/about">オープンデータデイとは</a>
+        <a class="page-link" href="{{ site.baseurl }}/media">メディアの方へ</a>
+        <a class="page-link" href="{{ site.baseurl }}/faq">よくある質問</a>
+        <a class="page-link" href="https://docs.google.com/spreadsheets/d/1R1NDIMM_aP0wvGoJgSYR5YLg5bsp5Ehe6jFpQA99Eyg/edit#gid=0">開催地一覧</a>
+        <a class="page-link" href="http://logo.odd.okfn.jp/">ロゴを作ろう</a>
       </div>
     </nav>
 
