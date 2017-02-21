@@ -12,6 +12,9 @@
 * [Facebook Page](https://www.facebook.com/OKFjp)
 * [GitHub](https://github.com/okfj)
 
-
-Contributing
+License
 -----
+* [Jekyll is a blog-aware, static site generator in Ruby](https://jekyllrb.com/)
+  * The Jekyll is available as open source under the terms of the [MIT License.](https://github.com/jekyll/jekyll/blob/master/LICENSE)
+* [Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima)
+  * The minima is available as open source under the terms of the [MIT License.](http://opensource.org/licenses/MIT)
