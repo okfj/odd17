@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: オープンデータデイ2017
+title: International Open Data Day 2017
 email: info@okfn.jp
 description: Open Knowledge Japan (OKJP)。政府保有データをはじめとする多様なデータの生成・公開・利用を支援しています
 

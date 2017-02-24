@@ -1,6 +1,20 @@
-.main-content {
-  margin-right: 30px;
-  margin-left: 30px;
-  padding-right: 30px;
-  padding-left: 30px;
+.item-list,
+.item-list ul {
+  list-style-type: square;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.item-list li {
+  margin-top:4px;
+}
+
+.social-list,
+.social-list ul {
+  list-style-type: square;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.social-list li {
+  margin-top:4px;
 }
