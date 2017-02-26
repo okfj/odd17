@@ -9,7 +9,7 @@
 
 ### 一般社団法人オープン・ナレッジ・ファウンデーション・ジャパン
 
-* [Open Knowledge Japan (OKJP) 一般社団法人オープン・ナレッジ・ファウンデーション・ジャパン](http://okfn.jp/)
+* [Open Knowledge Japan (OKJP)](http://okfn.jp/)
 * [Twitter](https://twitter.com/okfj)
 * [Facebook Page](https://www.facebook.com/OKFjp)
 * [GitHub](https://github.com/okfj)
