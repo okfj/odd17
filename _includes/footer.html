@@ -7,7 +7,7 @@
         <ul class="social-list">
           {% if site.facebook_username %}
           <li>
-            Facebook:
+            <img src="{{ site.baseurl }}/images/fb.png" alt="facebook" width="14px" /> :
             <a href="https://www.facebook.com/{{ site.facebook_username }}">
               {{ site.facebook_username }}
             </a>
@@ -16,14 +16,14 @@
 
           {% if site.twitter_username %}
           <li>
-            Twitter:
+            <img src="{{ site.baseurl }}/images/tw.png" alt="twitter" width="14px" /> :
             <a href="https://twitter.com/{{ site.twitter_username }}">
               {{ site.twitter_username }}
             </a>
           </li>
           {% endif %}
 
-          <li>email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
