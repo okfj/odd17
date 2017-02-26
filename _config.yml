@@ -20,7 +20,7 @@ description: インターナショナル・オープンデータ・デイは、�
 #url: "https://okfj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/odd17" # the subpath of your site, e.g. /blog
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://odd17.okfn.jp" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 twitter_username: okfj
